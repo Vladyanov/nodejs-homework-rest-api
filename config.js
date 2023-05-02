@@ -3,7 +3,10 @@ const DB_HOST =
 
 const SECRET_KEY = "u^;abc!@#7gYY%";
 
+const BASE_URL = "http://localhost:3000";
+
 module.exports = {
   DB_HOST,
   SECRET_KEY,
+  BASE_URL,
 };
